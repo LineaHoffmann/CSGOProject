@@ -104,6 +104,9 @@ public class Data implements IData
         
         return data;    
     }
+    
+    public ArrayList<String> getWinnerTeamInfo {
+    }
 
 
 }
